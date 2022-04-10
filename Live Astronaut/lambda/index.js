@@ -1,5 +1,4 @@
-/* eslint-disable no-use-before-define */
-/* eslint-disable global-require */
+
 
 const Alexa = require('ask-sdk-core');
 
