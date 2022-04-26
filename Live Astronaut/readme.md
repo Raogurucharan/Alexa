@@ -1,5 +1,7 @@
 # Live Astronaut 
 
+![alt text](https://github.com/Raogurucharan/Alexa/blob/master/Live%20Astronaut/alexaImage.png) 
+
 This repository contains code for Live Astronaut skill built for Alexa devices.This skill helps you find the number and names of Astronauts that are currently in space. 
 
 # About Alexa Skills Kit
